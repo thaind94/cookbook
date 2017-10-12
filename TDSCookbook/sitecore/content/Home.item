@@ -1,0 +1,89 @@
+----item----
+version: 1
+id: {D2446C5D-5F70-41FA-84EC-55EF459B71B9}
+database: master
+path: /sitecore/content/Home
+parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
+name: Home
+master: {00000000-0000-0000-0000-000000000000}
+template: {8D924E2B-41FC-4DFD-9E06-0BC48E373D91}
+templatekey: Site Root
+created: 20171006T140202Z
+
+----version----
+language: en
+version: 1
+revision: 5df7d6ff-aa6a-4149-801d-0df5548acb27
+
+----field----
+field: {9E8EA374-7CC4-48FB-8F65-56CDBE9EE648}
+name: Title
+key: title
+content-length: 4
+
+Home
+----field----
+field: {9015EC3D-C52A-4DE4-AE15-A37BA71F4445}
+name: Body
+key: body
+content-length: 59
+
+<p>This is My Home</p>
+<p>Hello Everybody</p>
+<p>&nbsp;</p>
+----field----
+field: {EC43A434-E288-4263-AABA-01BB42095659}
+name: Carousel Slides
+key: carousel slides
+content-length: 116
+
+{6A791E0C-7F3B-4E93-BBE5-83EF5E0E3A98}|{6149D4EF-4987-4B63-8057-3A0545DB0B16}|{05961366-D013-4A80-B50F-72425F653032}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171006T140202Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5df7d6ff-aa6a-4149-801d-0df5548acb27
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171007T034608Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

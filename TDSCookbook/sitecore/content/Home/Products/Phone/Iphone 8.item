@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {3CC8BB63-FF05-4B94-AE52-1AD1040F1EE9}
+database: master
+path: /sitecore/content/Home/Products/Phone/Iphone 8
+parent: {BE602739-45A4-4CA3-8439-7C898AE88A78}
+name: Iphone 8
+master: {00000000-0000-0000-0000-000000000000}
+template: {37FD9FE2-0D7E-4C1E-A95E-00E826E9C33C}
+templatekey: Product
+created: 20171006T151851Z
+
+----version----
+language: en
+version: 1
+revision: 244ae8d9-2ec5-4d1a-8d58-f89489abd9d1
+
+----field----
+field: {E01393FD-A257-4C2C-AF19-6276046136CE}
+name: Title
+key: title
+content-length: 8
+
+Iphone 8
+----field----
+field: {7D46C7ED-592F-4662-BE46-8F5CA6A44169}
+name: Body
+key: body
+content-length: 2278
+
+<strong style="color: #222222; background-color: #ffffff;">Phone</strong><span style="background-color: #ffffff; color: #222222;">&nbsp;(</span><span class="nowrap" style="background-color: #ffffff; color: #222222;"><span class="IPA nopopups noexcerpt"><a href="https://en.wikipedia.org/wiki/Help:IPA/English" title="Help:IPA/English" style="color: #0b0080; background: none;">/<span style="border-bottom: 1px dotted;"><span title="/ˈ/: primary stress follows">ˈ</span><span title="/aɪ/: 'i' in 'tide'">aɪ</span><span title="'f' in 'find'">f</span><span title="/oʊ/: 'o' in 'code'">oʊ</span><span title="'n' in 'nigh'">n</span></span>/</a></span></span><span style="background-color: #ffffff; color: #222222;"></span><a href="https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key" style="color: #0b0080; background: none #ffffff;"><small title="English pronunciation respelling"><em><strong>EYE</strong>-fohn</em></small></a><span style="background-color: #ffffff; color: #222222;">) is a line of&nbsp;</span><a href="https://en.wikipedia.org/wiki/Smartphone" title="Smartphone" style="color: #0b0080; background: none #ffffff;">smartphones</a><span style="background-color: #ffffff; color: #222222;">&nbsp;designed and marketed by&nbsp;</span><a href="https://en.wikipedia.org/wiki/Apple_Inc." title="Apple Inc." style="color: #0b0080; background: none #ffffff;">Apple Inc.</a><span style="background-color: #ffffff; color: #222222;">&nbsp;They run Apple's&nbsp;</span><a href="https://en.wikipedia.org/wiki/IOS" title="IOS" style="color: #0b0080; background: none #ffffff;">iOS</a><span style="background-color: #ffffff; color: #222222;">&nbsp;mobile operating system. The&nbsp;</span><a href="https://en.wikipedia.org/wiki/IPhone_(1st_generation)" title="IPhone (1st generation)" style="color: #0b0080; background: none #ffffff;">first generation iPhone</a><span style="background-color: #ffffff; color: #222222;">&nbsp;was released on June 29, 2007, and there have been multiple new hardware iterations with new&nbsp;</span><a href="https://en.wikipedia.org/wiki/IOS" title="IOS" style="color: #0b0080; background: none #ffffff;">iOS</a><span style="background-color: #ffffff; color: #222222;">&nbsp;releases since.</span>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171006T151851Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+244ae8d9-2ec5-4d1a-8d58-f89489abd9d1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171006T152049Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

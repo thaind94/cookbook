@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreCookbook", "SitecoreCookbook\SitecoreCookbook.csproj", "{9A8F4710-190C-49FA-9812-AE5E5396F45C}"
 EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "TDSCookbook", "TDSCookbook\TDSCookbook.scproj", "{4C77DD8E-DD4D-4FC6-8093-32CC204DE149}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{9A8F4710-190C-49FA-9812-AE5E5396F45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A8F4710-190C-49FA-9812-AE5E5396F45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A8F4710-190C-49FA-9812-AE5E5396F45C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C77DD8E-DD4D-4FC6-8093-32CC204DE149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C77DD8E-DD4D-4FC6-8093-32CC204DE149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C77DD8E-DD4D-4FC6-8093-32CC204DE149}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4C77DD8E-DD4D-4FC6-8093-32CC204DE149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C77DD8E-DD4D-4FC6-8093-32CC204DE149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C77DD8E-DD4D-4FC6-8093-32CC204DE149}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

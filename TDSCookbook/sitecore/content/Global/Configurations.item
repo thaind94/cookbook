@@ -1,0 +1,88 @@
+----item----
+version: 1
+id: {716A5D1E-EADC-40C9-8333-E5F0A74764C1}
+database: master
+path: /sitecore/content/Global/Configurations
+parent: {FAD03C40-8721-4DE3-844A-02CF3045D64F}
+name: Configurations
+master: {00000000-0000-0000-0000-000000000000}
+template: {D70F5C0F-287A-4F35-BD42-F5155642749E}
+templatekey: Site Configuration
+created: 20171006T140612Z
+
+----version----
+language: en
+version: 1
+revision: c201db5d-0380-4ff3-8adb-84fe5114443a
+
+----field----
+field: {4A39810A-DA40-4E2F-87F9-186CF8A735BB}
+name: Company Name
+key: company name
+content-length: 9
+
+Smart Osc
+----field----
+field: {7908B136-8C4E-4C3B-8119-7B016D0BE749}
+name: Logo
+key: logo
+content-length: 121
+
+<image mediaid="{73D8963F-F1EF-4F01-8255-2253C6D3E9A5}" alt="SmartOsc Loge" height="32" width="80" hspace="" vspace="" />
+----field----
+field: {0AC1D0C0-6037-4975-85F2-92FB9DBBAD00}
+name: Copyright Text
+key: copyright text
+content-length: 121
+
+<p><span style="background-color: #f2f7fa; color: #363632;">Copyright © 2017 by Thaind</span></p>
+<p>www.smartosc.com</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171006T140612Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c201db5d-0380-4ff3-8adb-84fe5114443a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171006T162121Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
