@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {3C290F85-0936-4405-9120-FCFCC6D31A0E}
+database: master
+path: /sitecore/templates/Coobook/Product Section/__Standard Values
+parent: {6F6D5E5F-430D-4D03-B2A9-10D091435A1D}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {6F6D5E5F-430D-4D03-B2A9-10D091435A1D}
+templatekey: Product Section
+created: 20171012T080514Z
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 480
+
+<r xmlns:xsd="http://www.w3.org/2001/XMLSchema" ><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{8841D10F-331C-4DEC-9BDD-F78D694197AC}"><r id="{F8E01C25-092E-4456-99D8-06985B36B02A}" ph="breadcrumb" uid="{C76D03C5-229E-4E11-98EE-89D2D5237D2E}" /><r id="{866E9743-82DF-465A-94C6-AC750736250B}" ph="left-column" uid="{EE19FBB2-E78D-45EC-AF53-4F729D3134C4}" /><r id="{B2C582A9-69EC-42F6-96F0-EF9AB7CD18CF}" ph="main-content" uid="{18EB396F-241C-4B5A-9322-A7B39DC5B8E7}" /></d></r>
+----version----
+language: en
+version: 1
+revision: 1da5cee8-4bd7-4c21-9b8e-7944a868c913
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171012T080514Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1da5cee8-4bd7-4c21-9b8e-7944a868c913
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171012T080624Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

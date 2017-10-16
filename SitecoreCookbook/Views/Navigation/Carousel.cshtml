@@ -1,11 +1,10 @@
-﻿@using SitecoreCookbook.Helpers
-@model IEnumerable<SitecoreCookbook.Models.CarouselSlide>
+﻿@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<IEnumerable<SitecoreCookbook.Models.sitecore.templates.Coobook.Carousel_Slide>>
 <div class="carousel-inner" role="listbox">
     @foreach (var item in Model)
     {
         <div>
-            <a href="@item.Url" title="@item["Title"]">
-                @item.Image
+            <a href="@item.Mapped_Link_Item.Url" title="@item.Title">
+                @RenderImage(item, x => x.Image)
             </a>
         </div>
     }

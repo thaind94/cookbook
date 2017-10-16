@@ -74,4 +74,15 @@ E:\VSProject\SitecoreCookbook\SitecoreCookbook\bin\System.Web.Mvc.xml
 E:\VSProject\SitecoreCookbook\SitecoreCookbook\obj\Debug\SitecoreCookbook.csproj.CoreCompileInputs.cache
 E:\VSProject\SitecoreCookbook\SitecoreCookbook\obj\Debug\SitecoreCookbook.dll
 E:\VSProject\SitecoreCookbook\SitecoreCookbook\obj\Debug\SitecoreCookbook.pdb
+E:\VSProject\SitecoreCookbook\SitecoreCookbook\bin\Castle.Core.dll
+E:\VSProject\SitecoreCookbook\SitecoreCookbook\bin\Glass.Mapper.dll
+E:\VSProject\SitecoreCookbook\SitecoreCookbook\bin\Glass.Mapper.Sc.dll
+E:\VSProject\SitecoreCookbook\SitecoreCookbook\bin\Glass.Mapper.Sc.Mvc.dll
+E:\VSProject\SitecoreCookbook\SitecoreCookbook\bin\Castle.Core.xml
+E:\VSProject\SitecoreCookbook\SitecoreCookbook\bin\Glass.Mapper.pdb
+E:\VSProject\SitecoreCookbook\SitecoreCookbook\bin\Glass.Mapper.xml
+E:\VSProject\SitecoreCookbook\SitecoreCookbook\bin\Glass.Mapper.Sc.pdb
+E:\VSProject\SitecoreCookbook\SitecoreCookbook\bin\Glass.Mapper.Sc.xml
+E:\VSProject\SitecoreCookbook\SitecoreCookbook\bin\Glass.Mapper.Sc.Mvc.pdb
+E:\VSProject\SitecoreCookbook\SitecoreCookbook\bin\Glass.Mapper.Sc.Mvc.xml
 E:\VSProject\SitecoreCookbook\SitecoreCookbook\obj\Debug\SitecoreCookbook.csprojResolveAssemblyReference.cache
