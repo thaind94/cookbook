@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {92127852-5C5C-43A7-B938-D1295E95B500}
+database: master
+path: /sitecore/layout/Renderings/Cookbook/Simple List
+parent: {773ABDB1-52FF-4063-96D1-337BB49F0674}
+name: Simple List
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
+created: 20171017T044705Z
+
+----field----
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 30
+
+/Views/Content/ItemList.cshtml
+----field----
+field: {DDAB263E-B42E-419A-AA6F-081B7393CA38}
+name: Model
+key: model
+content-length: 41
+
+/sitecore/layout/Models/Cookbook/ItemList
+----field----
+field: {2E51DF70-D3E4-458C-B03A-95C734DD39E7}
+name: Data source
+key: data source
+content-length: 0
+
+
+----field----
+field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
+name: Datasource Location
+key: datasource location
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 6cd3c273-312f-4daf-85ea-9b4f0a685682
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171017T044705Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6cd3c273-312f-4daf-85ea-9b4f0a685682
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171017T070838Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

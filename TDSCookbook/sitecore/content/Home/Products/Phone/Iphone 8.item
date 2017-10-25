@@ -13,7 +13,7 @@ created: 20171006T151851Z
 ----version----
 language: en
 version: 1
-revision: 244ae8d9-2ec5-4d1a-8d58-f89489abd9d1
+revision: c46dd63a-a8fd-449d-bd9f-25c4bcb654e8
 
 ----field----
 field: {E01393FD-A257-4C2C-AF19-6276046136CE}
@@ -30,6 +30,13 @@ content-length: 2278
 
 <strong style="color: #222222; background-color: #ffffff;">Phone</strong><span style="background-color: #ffffff; color: #222222;">&nbsp;(</span><span class="nowrap" style="background-color: #ffffff; color: #222222;"><span class="IPA nopopups noexcerpt"><a href="https://en.wikipedia.org/wiki/Help:IPA/English" title="Help:IPA/English" style="color: #0b0080; background: none;">/<span style="border-bottom: 1px dotted;"><span title="/ˈ/: primary stress follows">ˈ</span><span title="/aɪ/: 'i' in 'tide'">aɪ</span><span title="'f' in 'find'">f</span><span title="/oʊ/: 'o' in 'code'">oʊ</span><span title="'n' in 'nigh'">n</span></span>/</a></span></span><span style="background-color: #ffffff; color: #222222;"></span><a href="https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key" style="color: #0b0080; background: none #ffffff;"><small title="English pronunciation respelling"><em><strong>EYE</strong>-fohn</em></small></a><span style="background-color: #ffffff; color: #222222;">) is a line of&nbsp;</span><a href="https://en.wikipedia.org/wiki/Smartphone" title="Smartphone" style="color: #0b0080; background: none #ffffff;">smartphones</a><span style="background-color: #ffffff; color: #222222;">&nbsp;designed and marketed by&nbsp;</span><a href="https://en.wikipedia.org/wiki/Apple_Inc." title="Apple Inc." style="color: #0b0080; background: none #ffffff;">Apple Inc.</a><span style="background-color: #ffffff; color: #222222;">&nbsp;They run Apple's&nbsp;</span><a href="https://en.wikipedia.org/wiki/IOS" title="IOS" style="color: #0b0080; background: none #ffffff;">iOS</a><span style="background-color: #ffffff; color: #222222;">&nbsp;mobile operating system. The&nbsp;</span><a href="https://en.wikipedia.org/wiki/IPhone_(1st_generation)" title="IPhone (1st generation)" style="color: #0b0080; background: none #ffffff;">first generation iPhone</a><span style="background-color: #ffffff; color: #222222;">&nbsp;was released on June 29, 2007, and there have been multiple new hardware iterations with new&nbsp;</span><a href="https://en.wikipedia.org/wiki/IOS" title="IOS" style="color: #0b0080; background: none #ffffff;">iOS</a><span style="background-color: #ffffff; color: #222222;">&nbsp;releases since.</span>
 ----field----
+field: {3DF9F188-0867-4532-88A1-91D20A730DC2}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{4F73098D-126B-4823-B9F4-C70E458E1886}" />
+----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
@@ -42,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-244ae8d9-2ec5-4d1a-8d58-f89489abd9d1
+c46dd63a-a8fd-449d-bd9f-25c4bcb654e8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20171006T152049Z
+20171017T070008Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

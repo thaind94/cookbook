@@ -131,6 +131,7 @@
     <Compile Include="Models\BreadcrumbItemList.cs" />
     <Compile Include="Models\CarouselSlide.cs" />
     <Compile Include="Models\GlassItems.cs" />
+    <Compile Include="Models\ItemList.cs" />
     <Compile Include="Models\PartialGlassItems.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -179,6 +180,7 @@
     <Content Include="Views\Navigation\Breadcrumb.cshtml" />
     <Content Include="Views\Navigation\Carousel.cshtml" />
     <Content Include="Views\Content\TitleAndBody.cshtml" />
+    <Content Include="Views\Content\ItemList.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

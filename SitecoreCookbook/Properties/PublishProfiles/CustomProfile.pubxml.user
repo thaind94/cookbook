@@ -205,10 +205,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/06/2017 20:19:31</publishTime>
     </File>
     <File Include="bin/SitecoreCookbook.dll">
-      <publishTime>10/16/2017 14:19:09</publishTime>
+      <publishTime>10/17/2017 13:49:03</publishTime>
     </File>
     <File Include="bin/SitecoreCookbook.pdb">
-      <publishTime>10/16/2017 14:19:09</publishTime>
+      <publishTime>10/17/2017 13:49:03</publishTime>
     </File>
     <File Include="bin/System.Net.Http.Formatting.dll">
       <publishTime>10/06/2017 20:19:33</publishTime>
@@ -320,6 +320,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="Scripts/modernizr-2.6.2.js">
       <publishTime>10/06/2017 22:28:01</publishTime>
+    </File>
+    <File Include="Views/Content/ItemList.cshtml">
+      <publishTime>10/17/2017 11:44:24</publishTime>
     </File>
     <File Include="Views/Content/TitleAndBody.cshtml">
       <publishTime>10/11/2017 11:45:03</publishTime>
